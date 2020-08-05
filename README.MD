@@ -1,4 +1,6 @@
 ## Hey! I'm Raphael (@Algo-ryth-mix)
+Checkout my [Portfolio!](https://rbaier.me)
+
 - 📓 I study Creative Media and Game Technologies
 - 🧰 I'm a passionate about C++ and keep up with the newest standards & best practices
 - ⚡ I'm also a Mastercraftsman of Mechatronics

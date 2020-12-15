@@ -7,7 +7,4 @@ Checkout my [Portfolio!](https://rbaier.me)
 - 🎮 I'm familiar with Unity and C#
 - 🔠 I'm currently working on the [Legion-Engine](https://github.com/Legion-Engine/Legion-Engine)
 
-## Check out my Github stats below!
-![Stats](https://github-readme-stats.vercel.app/api?username=Algo-ryth-mix&show_icons=true&title_color=81a1c1&text_color=d8dee9&icon_color=88c0d0&bg_color=2e3440)
-![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Algo-ryth-mix&layout=compact&show_icons=true&title_color=81a1c1&text_color=d8dee9&icon_color=88c0d0&bg_color=2e3440)
-
+![GitHub metrics](https://metrics.lecoq.io/Algo-ryth-mix?base.header=0&base.community=0&base.repositories=0&languages=1&isocalendar=1&followup=1&isocalendar.duration=full-year)

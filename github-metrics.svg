@@ -1811,17 +1811,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 45.42304206429599%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 45.659218468706975%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">57%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 25.543530415311615%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 25.369056443926716%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">32%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 9.033427520392387%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 8.971725087366304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">11%</span>
                         </div>
                     </div>
@@ -2861,7 +2861,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20/08/2021, 12:20 (timezone Europe/Vienna) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 20/08/2021, 13:15 (timezone Europe/Vienna) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -680,12 +680,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 74.06434668417597%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 74.03890537421694%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">93%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Starlark</span>
-                            <div class="bar" style="width: 5.935653315824031%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.961094625783053%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">7%</span>
                         </div>
                     </div>
@@ -1745,7 +1745,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2022, 16:18:47 (timezone Europe/Vienna) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 17:28:19 (timezone Europe/Vienna) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

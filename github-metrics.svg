@@ -504,7 +504,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 31.3 characters per line of code written</li>
+                        <li>Has approximately 30.9 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -681,13 +681,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 77.74816290945323%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">97%</span>
+                            <div class="bar" style="width: 76.95776543833081%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">96%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Starlark</span>
-                            <div class="bar" style="width: 2.251837090546768%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
+                            <div class="bar" style="width: 3.0422345616691904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
                         </div>
                     </div>
                 </section>
@@ -1708,7 +1708,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2022, 14:20:28 (timezone Europe/Vienna) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 28 Jan 2022, 15:16:58 (timezone Europe/Vienna) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
